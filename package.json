@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
-    "@webcodesk/react-app-framework": "2.0.27",
+    "@webcodesk/react-app-framework": "2.0.28",
     "@webcodesk/webcodesk-srv": "2.0.0",
     "cross-env": "6.0.3",
     "express": "4.17.1",
