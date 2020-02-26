@@ -1,2 +1,3 @@
-# wcd-empty-pwa
-Starter project for PWA
+# Starter project for PWA
+
+Use this project as a starting point of the Web application (PWA). 
